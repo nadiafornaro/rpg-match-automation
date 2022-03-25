@@ -1,4 +1,4 @@
-![nordic](NordicGlobal-AutomationFramework/Documents/nordiclogo.png)
+![logo](rpg-match-automation/Documents/main_logo.png)
 
 # RPGMatch-test-automation-framework
 
