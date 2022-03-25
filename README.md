@@ -1,4 +1,4 @@
-![logo](rpg-match-automation/Documents/main_logo.png)
+![logo](rpg-match-automation/cypress/main_logo.png)
 
 # RPGMatch-test-automation-framework
 
