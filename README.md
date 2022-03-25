@@ -18,3 +18,5 @@ Instructions for running this framework
 3. Open command line and run npm install cypress --save-dev
 4. run npx cypress open
 5. if you want to run in your CMD, run npx cypress run --record --key 19ef26b2-1b11-4a26-98ea-91d7b825ef2d
+
+
